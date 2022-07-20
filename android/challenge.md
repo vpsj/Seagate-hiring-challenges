@@ -3,9 +3,10 @@
 3. Submit your repo and a brief note to [work@iotready.co](mailto:work@iotready.co)
 
 
-![Portrait][https://raw.githubusercontent.com/IoTReady/hiring-challenges/main/android/media/portrait.jpeg]
+![Portrait](media/portrait.jpeg)
 
 
-![Landscape][https://raw.githubusercontent.com/IoTReady/hiring-challenges/main/android/media/landscape.jpeg]
+![Landscape](media/landscape.jpeg)
 
-![Portrait][https://raw.githubusercontent.com/IoTReady/hiring-challenges/main/android/media/responsive.mp4]
+
+![Responsive (Video)](media/responsive.mp4)
