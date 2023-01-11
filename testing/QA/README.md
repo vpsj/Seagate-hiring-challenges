@@ -1,0 +1,1 @@
+Imagine you are assigned QA/testing of a new product that has never been tested before. The product is a smart watch for which development has just begun. Make a small document in which test activities are defined for the next 3 months until roll out. The stages would be development and manufacturing
