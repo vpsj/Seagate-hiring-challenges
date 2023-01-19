@@ -4,7 +4,7 @@
 ## Assignment
 
 1. Use [Frappe Framework](https://frappeframework.com) to build a simple link bundler app as described below.
-2. The app has 2 page: `Create` and `View`.
+2. The app has 2 pages: `Create` and `View`.
 3. In the `Create` page, a logged in user can add links and create a bundle. See screenshot below.
 4. Creating a bundle generates a view link. The user can share this link with a non-logged in user who can view the bundle and click on the links to open in a new browser tab/window. See screenshot below.
 5. Stretch goals:
