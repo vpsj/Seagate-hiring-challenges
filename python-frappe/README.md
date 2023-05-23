@@ -1,4 +1,4 @@
-> This is an advanced challenge that will potentially need a full day for completion unless you are already familiar with Frappe.
+> This is an advanced challenge that will potentially need multiple days for completion unless you are already familiar with Frappe.
 
 
  1. This challenge is meant for full-time Python developers. Interns can apply by completing the [Jinja challenge](../python-web/README.md).
