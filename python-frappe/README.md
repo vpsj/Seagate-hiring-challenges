@@ -1,9 +1,9 @@
 > This is an advanced challenge that will potentially need a full day for completion unless you are already familiar with Frappe.
 
 
- This challenge is meant for full-time Python developers. Interns can apply by completing the [Jinja challenge](../python-web/README.md).
- The challenge needs to be submitted by 27th May 2023, 8 pm.
- We are looking to see your approach, not the final output. Make sure you document your process and workflow as much as you can
+ 1. This challenge is meant for full-time Python developers. Interns can apply by completing the [Jinja challenge](../python-web/README.md).
+ 2.  The challenge needs to be submitted by 27th May 2023, 8 pm.
+ 3.  We are looking to see your approach, not the final output. Make sure you document your process and workflow as much as you can
 
 ## Assignment
 
